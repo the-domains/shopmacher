@@ -1,3 +1,4 @@
+layout_spectrum: 0.0017299661412835121
 typography_spectrum: 0.1405938738025725
 color:
   brandStrength: 0.6438850171398371
@@ -10,7 +11,4 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-layout_spectrum: 0.0017299661412835121
 name: shopmacher
-title: SHOPMACHER
-description: BLOG
